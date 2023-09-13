@@ -1,0 +1,14 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+h1{
+    font-weight: bold;
+    font-size: 2rem;
+}
+
+@layer base {
+    h1{
+        @apply font-bold text-2xl;
+    }
+    .body { background-image: url(dark.jpg); height: 100vh;}
+}

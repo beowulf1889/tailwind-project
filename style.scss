@@ -1,0 +1,112 @@
+@use 'app.css';
+
+#m-con {
+    height: 100vh;
+}
+
+#nav {
+    span {
+        font-size: x-large;
+        padding: 10px;
+    }
+}
+
+#net{ background-image: url(Netflix-Logo-HD-969608938.png);}
+body {
+    margin: 0;
+    padding: 0;
+    background-image: url(dark.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+
+
+
+
+#BB {
+    background-image: url(peaky-blinders.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#BK {
+    background-image: url(99.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: flex-end;
+}
+
+#AD {
+    background-image: url(Ash-vs-Evil-Dead-Banner-4205984175.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: flex-end;
+}
+
+#RP {
+    background-image: url(Ready+Player+One.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: flex-end;
+}
+
+#MH {
+    background-image: url(money-heist.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    align-items: flex-end;
+}
+
+#RN {
+    background-image: url(red_notice_movie_.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#EX {
+    background-image: url(extraction-review-.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#AP {
+    background-image: url(adam-project.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#OG {
+    background-image: url(The-Old-Guard-.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+
+}
+
+#SB {
+    background-image: url(Shadow-and-Bone.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 20px;
+    height: 400px;
+
+}
+
+#NA {
+    background-image: url(The-Night-Agent.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 20px;
+    height: 400px;
+}
+
+#W {
+    background-image: url(witcher.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    margin-top: 20px;
+    height: 400px;
+}
