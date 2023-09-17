@@ -10,8 +10,8 @@
         padding: 10px;
     }
 }
+ 
 
-#net{ background-image: url(Netflix-Logo-HD-969608938.png);}
 body {
     margin: 0;
     padding: 0;
@@ -20,8 +20,12 @@ body {
     background-size: cover;
 }
 
-
-
+#new-trailers {
+    p{ display: flex;
+        align-self: flex-end;
+        
+    }
+}
 
 #BB {
     background-image: url(peaky-blinders.jpg);

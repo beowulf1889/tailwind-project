@@ -994,6 +994,10 @@ h1 {
   padding: 10px;
 }
 
+#top-nav {
+  justify-content: space-between;
+}
+
 #net {
   background-image: url(Netflix-Logo-HD-969608938.png);
 }
@@ -1004,6 +1008,11 @@ body {
   background-image: url(dark.jpg);
   background-repeat: no-repeat;
   background-size: cover;
+}
+
+#new-trailers p {
+  display: flex;
+  align-self: flex-end;
 }
 
 #BB {
